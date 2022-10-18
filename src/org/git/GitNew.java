@@ -10,9 +10,14 @@ public class GitNew {
 		
 		System.out.println("Welcome to git hub");
 		
+		int num= 10;
+		
+		System.out.println(num);
+		
 		System.out.println(123);
 		
 		System.out.println("B Branch");
+
 	}
 
 }
