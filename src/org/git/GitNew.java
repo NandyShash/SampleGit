@@ -9,6 +9,10 @@ public class GitNew {
 		System.out.println(word);
 		
 		System.out.println("Welcome to git hub");
+		
+		int num= 10;
+		
+		System.out.println(num);
 	}
 
 }
